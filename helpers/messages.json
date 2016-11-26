@@ -1,0 +1,11 @@
+{
+    "dbError" : "Problemas com a conexão..",
+    "queryError": "Problemas na execução da consulta...",
+    "parameters": "Parâmetros insuficientes...",
+    "invalidLogin": "Usuário ou senha incorretos...",
+    "noToken": "Sem token...",
+    "expired": "Token expirado...",
+    "emailExists": "Este email já existe na base...",
+    "weakPassword": "A senha deve possuir no minimo 5 caracteres...",
+    "invalidEmail": "Email inválido..."
+}

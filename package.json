@@ -1,0 +1,33 @@
+{
+  "name": "Movies-API",
+  "version": "1.0.0",
+  "description": "Movies-API",
+  "main": "app.js",
+  "bin": {
+    "Movies-API": "node./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "consign": "^0.1.2",
+    "express": "^4.14.0",
+    "jwt-simple": "^0.5.1",
+    "md5": "^2.2.1",
+    "moment": "^2.16.0",
+    "mysql": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosSpessatto/Movies-API.git"
+  },
+  "author": "Marcos Defendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosSpessatto/Movies-API.git/issues"
+  },
+  "homepage": "https://github.com/MarcosSpessatto/Movies-API.git#readme"
+}
